@@ -125,7 +125,7 @@ public class MainPipeline {
                 context.output(context.element());
             }
         }));
-        logger.info("Git Hub Added");
+        logger.info("Git Hub Added 1");
         p.run();
 
     }
