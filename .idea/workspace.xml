@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76bc8ddd-8d45-4a6d-8afb-960dfe61b0f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/pipeline/MainPipeline$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/pipeline/MainPipeline$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/pipeline/MainPipeline$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/pipeline/MainPipeline$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/pipeline/MainPipeline$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/pipeline/MainPipeline$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/pipeline/MainPipeline$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/pipeline/MainPipeline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/utils/CustomRowMapper$readTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/utils/CustomRowMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/utils/TableColumn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/utils/TableData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/learning/utils/TableMetaData.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
