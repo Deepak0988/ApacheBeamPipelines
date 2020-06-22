@@ -125,6 +125,7 @@ public class MainPipeline {
                 context.output(context.element());
             }
         }));
+        logger.info("Updated Webhook");
         p.run();
 
     }
